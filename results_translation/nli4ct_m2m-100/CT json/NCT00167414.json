@@ -1,0 +1,45 @@
+{
+    "Clinical Trial ID": "NCT00167414",
+    "Intervention": [
+        "干预一:",
+        "低分裂的固态体辐射疗法",
+        "使用 Hypofractionated Stereotactic Body Radiation Therapy 对于乳腺癌初级的有限转移。",
+        "低分裂的固体辐射疗法:低分裂的固体辐射疗法",
+        "Hypofractionated Stereotactic Body Radiation Therapy: Hypofractionated Stereotactic Body Radiation Therapy用于治疗乳腺癌初级的有限转移。"
+    ],
+    "Eligibility": [
+        "融入标准:",
+        "年龄:无限制",
+        "卡诺夫斯基绩效状态(KPS) 70",
+        "不超过5个涉及一个或多个不同器官(肝脏,肺或骨骼)的转移点。",
+        "损伤的尺寸必须是这样,它可以安全地根据协议的规则被处理到无菌辐射剂量。",
+        "此前治疗的损伤不符合条件,除非所规定的剂量可以安全地交付。",
+        "同时治疗是允许和建议的,化疗协议的类型和时间表是医学肿瘤学家的判断。",
+        "必须获得知情同意。",
+        "怀孕测试必须为孕妇负",
+        "排除标准:",
+        "患者无法按照协议规定的长度跟踪。",
+        "技术无法达到基于放射手术所需的安全剂量限制所需的所需剂量。",
+        "怀孕或母乳喂养的女性。",
+        "未能满足纳入标准的要求",
+        "对辐射的禁忌。"
+    ],
+    "Results": [
+        "测量结果:",
+        "总体生存",
+        "从登记日期到2年后续访问的患者的百分比。",
+        "时间框架:2年",
+        "结果一:",
+        "手臂/组名称: Hypofractionated Stereotactic Body Radiation Therapy",
+        "手臂/群组描述:用于乳腺癌初级的有限转移的 Hypofractionated Stereotactic Body Radiation Therapy。",
+        "低分裂的固体辐射疗法:低分裂的固体辐射疗法",
+        "Hypofractionated Stereotactic Body Radiation Therapy: Hypofractionated Stereotactic Body Radiation Therapy用于治疗乳腺癌初级的有限转移。",
+        "分析参与者总数:39人",
+        "尺寸类型: 数字",
+        "测量单位:参与者百分比 74"
+    ],
+    "Adverse Events": [
+        "意外事件一:",
+        "总数: 0/39 (0.00%)"
+    ]
+}
