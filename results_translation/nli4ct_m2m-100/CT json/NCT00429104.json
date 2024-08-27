@@ -1,0 +1,41 @@
+{
+    "Clinical Trial ID": "NCT00429104",
+    "Intervention": [
+        "干预一:",
+        "HER2+ 转移性乳腺癌",
+        "Herceptin 4 mg/kg 静脉注射(IV) 90 分钟以上 + Granulocyte-Macrophage Colony Stimulating Factor (GM-CSF) 250 mcg/m^2 皮下注射"
+    ],
+    "Eligibility": [
+        "融入标准:",
+        "突发性乳腺癌的历史学证实。",
+        "HER-2/neu 过度表达: 3+ 通过免疫 histochemical 染色或 Fluorescence in situ 混合(FISH) (+)。",
+        "第四阶段乳腺癌有可测量的疾病。",
+        "接受Herceptin加上化疗或Herceptin单独治疗后逐渐发病的患者.不超过两次含有Herceptin的疗程。",
+        "Zubrod 性能状态 0 或 1。",
+        "足够的血液学参数(白血细胞 - WBC > 3000/mm3,血小板数 > 100,000/mm3),足够的肾功能(血清素 < 2.0 mg/dl),足够的肝功能(总比利卢宾,阿斯巴达氨基移交酶(AST或SGOT)或阿拉宁氨基移交酶(ALT或SGPT) < 3 x正常)。",
+        "排除标准:",
+        "活跃的大脑转移。",
+        "登记时没有可测量的疾病(例如,仅有骨骼、单独关节性疾病或单独关节性泄漏)。",
+        "超过2种含有转移性乳腺癌方案的Herceptin。",
+        "已知HIV阳性病例。",
+        "慢性活性肝炎或肝炎。",
+        "肺部症状性疾病。",
+        "使用非固醇抗炎性疼痛药物或Cox-2抑制剂1周前注册。"
+    ],
+    "Results": [
+        "测量结果:",
+        "肿瘤反应(稳定性疾病)的参与者数量",
+        "在第2个月的评估中,定义为稳定疾病或更好地使用固体肿瘤响应评估标准(RECIST)的响应的参与者数量。",
+        "时间框架:2个月",
+        "结果一:",
+        "手臂/组名称:HER2+转移性乳腺癌",
+        "手臂/组描述: Herceptin 4 mg/kg 静脉注射(IV) 90 分钟以上 + Granulocyte-Macrophage Colony Stimulating Factor (GM-CSF) 250 mcg/m^2 皮下注射",
+        "分析的参与者总数:17人",
+        "尺寸类型: 数字",
+        "单位:参与者5人"
+    ],
+    "Adverse Events": [
+        "意外事件一:",
+        "总数: 0/17 (0.00%)"
+    ]
+}
